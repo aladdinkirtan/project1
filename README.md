@@ -1,4 +1,4 @@
 # project1
-A project based on html,css and js
-Author : Aladdin Kirtan
-Developer : Aladdin & Team
+A project based on html,css and js <br>
+Author : Hubnet <br>
+Developer : Aladdin Kirtan
